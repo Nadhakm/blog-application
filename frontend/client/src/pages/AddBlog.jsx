@@ -32,7 +32,7 @@ const AddBlog = () => {
 
   return (
     <div style={{ maxWidth: '600px', margin: 'auto' }}>
-      <h2>Add Blog</h2>
+      <h2>Add a Blog</h2>
       <form onSubmit={handleSubmit}>
         <div>
           <label>Title:</label><br />
